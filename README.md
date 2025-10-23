@@ -10,6 +10,7 @@ I'm front-end developer
 I'm a student at Savon Vocational school majoring in Information and Communication Technology(2024-2027). I'm passionate about Frontend Development and currently work with HTML, CSS and JavaScript.
 
 I speak:
+
 \-Russian (native)
 
 \-Ukrainian(native)
