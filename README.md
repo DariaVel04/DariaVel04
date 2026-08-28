@@ -16,7 +16,7 @@ Kuopio, Finland
 ---
 
 ### 💻 About Me  
-I'm a student at **Savon Vocational College**, majoring in **Information and Communication Technology (2024–2027)**.  
+I'm a student at **Tredu Vocational College**, majoring in **Information and Communication Technology (2027)**.  
 I’m passionate about **Frontend Development** and currently work with **HTML, CSS, JavaScript and React**.  
 
 ---
